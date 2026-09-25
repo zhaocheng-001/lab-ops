@@ -1,0 +1,26 @@
+# ==== Python / Django ====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.*
+
+# Django 运行时产物
+staticfiles/
+media/
+
+# ==== Node / Vite ====
+node_modules/
+dist/
+
+# ==== IDE / 工具 ====
+.idea/
+.vscode/
+.codebuddy/
+
+# ==== 系统文件 ====
+Thumbs.db
+.DS_Store
+*.log
