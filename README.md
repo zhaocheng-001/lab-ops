@@ -4,6 +4,8 @@
 
 ![系统首页截图](docs/screenshots/dashboard.png)
 
+![登录页截图](docs/screenshots/login.png)
+
 ---
 
 ## 一、选题背景与意义
